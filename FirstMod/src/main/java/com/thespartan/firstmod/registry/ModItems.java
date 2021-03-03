@@ -12,10 +12,10 @@ public class ModItems {
     /** Items **/
 
     // Defines what category the new item is to be placed into.
-    public static final Item RUBY = new Item(new Item.Settings().group(ItemGroup.MATERIALS));
+    public static final Item RUBY = new Item(new Item.Settings().group(FirstMod.ITEM_GROUP));
 
     /** Block Items **/
-    public static final BlockItem RUBY_BLOCK = new BlockItem(ModBlocks.RUBY_BLOCK, new Item.Settings().group(ItemGroup.BUILDING_BLOCKS));
+    public static final BlockItem RUBY_BLOCK = new BlockItem(ModBlocks.RUBY_BLOCK, new Item.Settings().group(FirstMod.ITEM_GROUP));
 
 
     // Defines the in-game name of the item

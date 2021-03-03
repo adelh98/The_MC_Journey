@@ -8,6 +8,7 @@ Therefore i will also try to comment my code where i think suitable so that when
 - Created and configurated the workplace in InteliJ. No issues.
 - Added "Ruby" as a material. 
 - Added "Ruby Block" as a METAL material. No functionaliy
+- Added two variants of item grouping in the creative menu.
 
 ## Bugs:
 - Currently no game breaking bugs. Minor annoyance due to wonky looking texture for the which i made myself in photoshop.

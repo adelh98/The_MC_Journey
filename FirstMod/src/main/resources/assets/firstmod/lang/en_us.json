@@ -1,4 +1,6 @@
 {
   "item.firstmod.ruby": "Crimson Ruby",
-  "block.firstmod.ruby_block": "Crimson Ruby Block"
+  "block.firstmod.ruby_block": "Crimson Ruby Block",
+  "itemGroup.firstmod.general": "First Mod Items",
+  "itemGroup.firstmod.other": "Additonal tab"
 }
