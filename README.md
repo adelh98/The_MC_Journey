@@ -4,3 +4,4 @@ The start of my minecraft modding career! Follow me along my way of actually lea
 ## My adventure so far:
 - I managed to successfully add a simple item, without any functionality, to the game! Baby steps!
 - I have managed to successfully add a brand new, custom made, non-functional, block to the game! I'll consider it a Victory!
+- I managed to successfully add two additional in-game tabs in the creative menu for easier access to custom blocks.
